@@ -124,3 +124,6 @@ ChatWithXandGmini/
 ```
 
 ## Publication Link:(https://matjournals.net/engineering/index.php/JoIDACS/article/view/905)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d38022b8-136c-4fd7-a013-b9672f17096f" />
+
+
