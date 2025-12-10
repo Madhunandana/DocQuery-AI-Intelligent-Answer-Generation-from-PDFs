@@ -1,0 +1,16 @@
+{
+    "test_cases": [
+      {
+        "id": "TC001",
+        "pdf_path": "DataSet/Madhunandana_HM_Resume (6).pdf",
+        "query": "Who is Madhunandana H M",
+        "expected_output": "Madhunandana H M is a software engineering professional pursuing an M.Tech in Computer Science and Engineering at RV College of Engineering, Bengaluru, with a GPA of 7.73. He has experience as a Software Engineering Intern at Ether Daylight Systems Pvt. Ltd., where he designed and implemented a mobile app for machine monitoring. His technical skills include Java, Python, React Native, and MySQL, with additional expertise in web technologies and tools like Visual Studio and Android Studio. He is also recognized for his participation in the Scientist for A Day competition by NASA and has interests in coding, teaching, and photography."
+      },
+      {
+        "id": "TC002",
+        "pdf_path": "DataSet/VINODA_K.pdf",
+        "query": "Who is Vinoda K?",
+        "expected_output": "Vinoda K is an engineering professional currently pursuing a Master of Technology in Communication Systems at RV College of Engineering, Bangalore, with a CGPA of 7.20. She holds a Bachelor's degree in Electronics and Communication from Government Engineering College, Chamarajanagara, and a Diploma in Electronics and Communication from Government Polytechnic, Kushalnagar. Vinoda has technical skills in embedded systems, C programming, and digital electronics, and has worked on projects like developing a Smart Waste Bin system using Arduino. She also actively participates in extracurricular activities, such as playing kabaddi at the state level."
+      }
+    ]
+}
