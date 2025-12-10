@@ -122,3 +122,5 @@ ChatWithXandGmini/
 ├── faiss_index/          # Local storage for vector embeddings
 └── test_docquery_ai.py   # Unit tests
 ```
+
+## Publication Link:(https://matjournals.net/engineering/index.php/JoIDACS/article/view/905)
